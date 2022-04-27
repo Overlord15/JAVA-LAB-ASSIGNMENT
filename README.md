@@ -31,3 +31,30 @@ class HelloWorld {
 ```java
 Hello, World!
 ```
+
+## STEPS WITH EXAMPLES :
+
+## STEP 1 :
+----
+![MarineGEO circle logo](/RESOURCES/1.jpg "MarineGEO logo")
+----
+## STEP 2 :
+----
+![MarineGEO circle logo](/RESOURCES/2.jpg "MarineGEO logo")
+----
+## STEP 3 :
+----
+![MarineGEO circle logo](/RESOURCES/3.jpg "MarineGEO logo")
+----
+## STEP 4 :
+----
+![MarineGEO circle logo](/RESOURCES/4.jpg "MarineGEO logo")
+----
+## STEP 5 :
+----
+![MarineGEO circle logo](/RESOURCES/5.jpg "MarineGEO logo")
+----
+## STEP 6 :
+----
+![MarineGEO circle logo](/RESOURCES/5.jpg "MarineGEO logo")
+----
