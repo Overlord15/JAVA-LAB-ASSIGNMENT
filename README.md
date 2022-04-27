@@ -14,7 +14,7 @@
 ## Basic example with syntax
 #### Source code :
 
-```java:
+```java
 // Program start
 // Defining class
 class HelloWorld {
