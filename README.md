@@ -28,6 +28,6 @@ class HelloWorld {
 - You can skip the lines containing ***//*** as they are comment lines and they don't affect the actual program.
 
 #### Output :
-
->Hello, World!
-
+```java
+Hello, World!
+```
