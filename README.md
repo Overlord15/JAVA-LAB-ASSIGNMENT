@@ -18,9 +18,9 @@
 >// Defining class
 >class HelloWorld {
 >// Defining main method
->    public static void main(String[] args) {
->        System.out.println("Hello, World!"); 
->    }
+>public static void main(String[] args) {
+>System.out.println("Hello, World!"); 
+>}
 >}
 ----
 - You can skip the lines containing ***//*** as they are comment lines and they don't affect the actual program.
